@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-30T19:13:05 IST" name="Default suite" finished-at="2023-10-30T19:13:26 IST" duration-ms="20757">
+    <groups>
+    </groups>
+    <test started-at="2023-10-30T19:13:05 IST" name="Default test" finished-at="2023-10-30T19:13:26 IST" duration-ms="20757">
+      <class name="test.ToVerifyAmountFromQuickView">
+        <test-method is-config="true" signature="openBroser()[pri:0, instance:test.ToVerifyAmountFromQuickView@2a265ea9]" started-at="2023-10-30T19:13:05 IST" name="openBroser" finished-at="2023-10-30T19:13:09 IST" duration-ms="4470" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBroser -->
+        <test-method signature="verifyingMultipleProductaddedInCartViaquickView()[pri:0, instance:test.ToVerifyAmountFromQuickView@2a265ea9]" started-at="2023-10-30T19:13:09 IST" name="verifyingMultipleProductaddedInCartViaquickView" finished-at="2023-10-30T19:13:26 IST" duration-ms="16231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyingMultipleProductaddedInCartViaquickView -->
+      </class> <!-- test.ToVerifyAmountFromQuickView -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
